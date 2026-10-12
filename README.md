@@ -1,17 +1,62 @@
-<h1 align="center">Hi 👋, I'm Talha Jobayer Zihan</h1>
+# Hi 👋, I'm Talha Jobayer Zihan
 
 <h3 align="center">
 AI/ML Engineer • Researcher • CSE Graduate @ RUET
 </h3>
 
 <p align="center">
-Building intelligent systems with Machine Learning, Deep Learning,
-NLP, and Transfer Learning.
+Building intelligent systems with Machine Learning, Deep Learning, NLP, Transfer Learning, and Generative AI.
 </p>
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 Featured Projects
+
+### 🤖 [TechyAgent — AI-Powered IT Support Assistant](https://github.com/jobayertalha/TechyAgent)
+
+An AI-powered IT support platform combining SQL analytics, natural-language database querying, Agentic RAG, and RAG evaluation.
+
+- 💬 AI SQL Assistant for natural-language database queries
+- 🗄️ SQLite-powered analytics and database insights
+- 🔎 Agentic RAG for intelligent information retrieval
+- 📊 Evaluation dashboard for assessing RAG performance
+
+**Tech Stack:** `Python` `Streamlit` `SQLite` `LangChain` `Groq` `RAG`
+
+🔗 **[Live Demo](https://techyagent-k5atxokhuvnteqnbhtggpd.streamlit.app/)**
+
+### 📄 [CareerVector — AI-Powered CV Analysis & Job Matching](https://github.com/jobayertalha/rag_app)
+
+An AI-powered career assistant that analyzes CVs, matches candidates with relevant jobs, identifies skill gaps, and generates personalized career roadmaps.
+
+- 📑 **CV Analyzer:** Upload a PDF CV for semantic analysis against real job descriptions from the Phitron AI/ML Job Market 2026 dataset.
+- 🎯 **JD Matching:** Analyze a job description to tailor the assessment to a specific role.
+- 📊 **Calibrated Match Scores:** Estimate job compatibility without inflating scores for entry-level candidates.
+- 🧩 **Skill Gap Analysis:** Identify missing skills, explain their relevance, and suggest learning priorities.
+- 💰 **Salary Insights:** Explore salary ranges across junior, mid, and senior levels using Bangladesh market data.
+- 🗺️ **Career Roadmap:** Generate personalized career recommendations for the next 12 months, 1–2 years, and 3–5 years.
+- 💬 **AI Career Chat:** Ask follow-up questions using LangChain and Groq.
+
+**Tech Stack:** `Python` `LangChain` `Groq` `FAISS` `Sentence Transformers` `RAG`
+🔗 **[Live Demo](https://techyagent-k5atxokhuvnteqnbhtggpd.streamlit.app/)**
+---
+
+### 🔐 Cross-Domain NIDS
+
+Transfer learning-based network intrusion detection designed to improve detection across different network domains.
+
+### 🧠 Bangla Sarcasm Detection
+
+Transformer-based Bangla NLP system for sarcasm detection.
+
+### 📚 ResearchFlow
+
+AI-powered research task management platform.
+**Tech Stack:** `Python` `Streamlit` `SQLite` `LangChain` `Groq` `RAG`
+
+---
+
+## 🚀 What I'm Working On
 
 - 🤖 AI / Machine Learning systems
 - 🔐 Cross-domain Network Intrusion Detection
@@ -19,58 +64,64 @@ NLP, and Transfer Learning.
 - 🔎 RAG pipelines and intelligent search
 - 🔬 AI research and experimentation
 
-## ⭐ Featured Projects
+---
 
-- 🔐 **Cross-Domain NIDS** — Transfer learning based network intrusion detection platform
-- 🔎 **CareerVector** — RAG-based CV and job matching system
-- 🧠 **Bangla Sarcasm Detection** — Transformer-based Bangla NLP system
-- 📚 **ResearchFlow** — AI-powered research task management platform
+## ⭐ Other Featured Projects
+
+- 🔐 **Cross-Domain NIDS** — Transfer learning-based network intrusion detection.
+- 📄 **CareerVector** — RAG-based CV and job matching system.
+- 🧠 **Bangla Sarcasm Detection** — Transformer-based Bangla NLP system.
+- 📚 **ResearchFlow** — AI-powered research task management platform.
+
+---
 
 ## 🔬 Research
 
 My research interests include:
 
-- Cross-domain transfer learning
-- Network intrusion detection
+- Cross-domain Transfer Learning
+- Network Intrusion Detection
 - Natural Language Processing
-- Transformer-based models
-- Adversarial training
+- Transformer-based Models
+- Adversarial Training
 - Retrieval-Augmented Generation
 
-I have worked on IEEE-published research in Bengali sarcasm detection
-and mental health text classification.
+I have worked on IEEE-published research in Bengali sarcasm detection and mental health text classification.
 
-## 🛠️ Tech I work with
+---
 
-**AI / ML**
+## 🛠️ Tech I Work With
 
-`PyTorch` `TensorFlow` `Transformers` `BanglaBERT`
-`Scikit-learn` `NumPy` `Pandas`
+**AI / Machine Learning**
 
-**NLP / RAG**
+`PyTorch` `TensorFlow` `Transformers` `BanglaBERT` `Scikit-learn` `NumPy` `Pandas`
 
-`LangChain` `FAISS` `RAG`
+**NLP / Generative AI**
 
-**Backend / Web**
+`LangChain` `FAISS` `RAG` `LLMs` `Groq`
 
-`FastAPI` `React` `Next.js` `TypeScript`
-`Vite` `Tailwind CSS`
+**Backend / Web Development**
 
-**Programming**
+`FastAPI` `React` `Next.js` `TypeScript` `Vite` `Tailwind CSS` `Streamlit`
 
-`Python` `C++` `C` `Java` `SQL`
+**Programming & Databases**
+
+`Python` `C++` `C` `Java` `SQL` `SQLite`
 
 **Tools**
 
 `Git` `GitHub` `Docker` `Linux` `Kaggle`
 
-## 📫 Connect with me## 📫 Connect with me
+---
+
+## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/talha-jobayer-696a74237/)
 - 📊 [Kaggle](https://www.kaggle.com/talhajobayer)
 - 🐙 [GitHub](https://github.com/jobayertalha)
+
 ---
 
 <p align="center">
-  <i>Building AI systems that solve real-world problems.</i>
+<i>Building AI systems that solve real-world problems.</i>
 </p>
