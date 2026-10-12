@@ -38,6 +38,7 @@ An AI-powered career assistant that analyzes CVs, matches candidates with releva
 - 💬 **AI Career Chat:** Ask follow-up questions using LangChain and Groq.
 
 **Tech Stack:** `Python` `LangChain` `Groq` `FAISS` `Sentence Transformers` `RAG`
+
 🔗 **[Live Demo](https://techyagent-k5atxokhuvnteqnbhtggpd.streamlit.app/)**
 ---
 
